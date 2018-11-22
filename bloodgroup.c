@@ -2,10 +2,8 @@
 #include <string.h>
 void main()
 <<<<<<< HEAD
-{ char Name[60], G[5], answer[15];
-=======
-{ char name[30], G[5], answer[10];
->>>>>>> ed57cd4f7594949ff4f7057703cb62f84ec955c9
+{ char name[60], G[5], answer[15];
+
   int i;
   do
   {
